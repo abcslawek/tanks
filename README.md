@@ -51,7 +51,7 @@ Optionall new features to do:
 - Tank upgrades
 - Sounds
 - Menu
-- Destroying environment's object
+- Destroying environment's objects
 
 
 ## Contact

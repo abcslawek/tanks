@@ -37,7 +37,6 @@ You must control the tank by driving forward and backward, lifting the barell up
 
 ## Screenshots
 ![tanksRecorded](https://user-images.githubusercontent.com/56951671/234344492-9358d5d3-ba2a-4188-8eb6-f2f3d4b6091a.gif)
-eenshots
 
 
 ## Usage

@@ -1,0 +1,18 @@
+﻿main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutInitWindowPosition przywołany w funkcji "void __cdecl InitGLUTScene(char const *)" (?InitGLUTScene@@YAXPEBD@Z)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutInitWindowSize przywołany w funkcji "void __cdecl InitGLUTScene(char const *)" (?InitGLUTScene@@YAXPEBD@Z)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutInitDisplayMode przywołany w funkcji "void __cdecl InitGLUTScene(char const *)" (?InitGLUTScene@@YAXPEBD@Z)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutMainLoop przywołany w funkcji main
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutPostRedisplay przywołany w funkcji "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutSwapBuffers przywołany w funkcji "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutTimerFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutIdleFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutKeyboardFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutReshapeFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutDisplayFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutMouseFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutPassiveMotionFunc przywołany w funkcji "void __cdecl SetCallbackFunctions(void)" (?SetCallbackFunctions@@YAXXZ)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp_glutBitmapCharacter przywołany w funkcji "void __cdecl drawString(char *,float,float,float)" (?drawString@@YAXPEADMMM@Z)
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp___glutInitWithExit przywołany w funkcji glutInit_ATEXIT_HACK
+main.obj : error LNK2019: nierozpoznany zewnętrzny symbol __imp___glutCreateWindowWithExit przywołany w funkcji glutCreateWindow_ATEXIT_HACK
+C:\Users\Sławek\Desktop\INFORMATYKA\freeglut\lib\freeglut.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\Sławek\Desktop\INFORMATYKA\statek\3\x64\Debug\3.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 16

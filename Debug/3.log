@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sławek\desktop\informatyka\kolokwium\3\3\main.cpp(89): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\sławek\desktop\informatyka\kolokwium\3\3\main.cpp(317): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+  3.vcxproj -> C:\Users\Sławek\Desktop\INFORMATYKA\kolokwium\3\Debug\3.exe
